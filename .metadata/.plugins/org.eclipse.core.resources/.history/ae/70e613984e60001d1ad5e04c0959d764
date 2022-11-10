@@ -1,0 +1,12 @@
+package com.ed.edlog.api.controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+
+public class ClienteController {
+	
+	@GetMapping
+	public String Listar() {
+		return "teste";
+	}
+
+}
