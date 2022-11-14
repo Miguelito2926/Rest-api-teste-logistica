@@ -1,0 +1,5 @@
+package com.ed.edlog.api.domain.repository;
+
+public interface ClienteRepository {
+
+}
