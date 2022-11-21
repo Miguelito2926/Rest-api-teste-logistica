@@ -1,0 +1,7 @@
+
+‹
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8æ¸ÙÉ0HîRMINORZ
+CODE_SMELL
+w
+java:S1612"?Replace this lambda with method reference 'ResponseEntity::ok'.(³Ï„´ûÿÿÿÿ8æ¸ÙÉ0HìRMINORZ
+CODE_SMELL
